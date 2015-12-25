@@ -41,3 +41,34 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.jumbotron {
+      background-image: url('https://i.imgur.com/NMLRv6b.png');
+      height: 900px;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    
+    .jumbotron .container {
+      position: relative;
+      top: 330px;
+      text-align: center;
+    }
+    
+    .jumbotron h1 {
+      color: #fff;
+      font-size: 80px;
+      font-family: 'Shift', sans-serif;
+    }
+    
+    .jumbotron p {
+      color: #fff;
+      font-size: 35px;
+    }
+    
+    .nav li {
+      display: inline;
+    
+  
+
+
